@@ -1,0 +1,3 @@
+For dataset visit Kaggle:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+In this project I have worked on Credit card Anomaly detection. Exploratory data analysis followed by Prediction models have been used.
